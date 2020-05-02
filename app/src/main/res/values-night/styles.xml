@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <!-- Original AppCompat attributes. -->
+    <item name="colorPrimary">@color/primaryColor</item>
+    <item name="colorSecondary">@color/secondaryColor</item>
+    <item name="colorError">@color/primaryDarkColor</item>
+
+    <item name="colorPrimaryVariant">@color/primaryLightColor</item>
+    <item name="colorSecondaryVariant">@color/primaryLightColor</item>
+    <item name="colorSurface">#121212</item>
+    <item name="colorOnPrimary">#000000</item>
+    <item name="colorOnSecondary">#000000</item>
+    <item name="colorOnBackground">#FFFFFF</item>
+    <item name="colorOnError">#FFFFFF</item>
+    <item name="colorOnSurface">#FFFFFF</item>
+    </style>
+
+</resources>
